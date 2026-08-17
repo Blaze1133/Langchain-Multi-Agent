@@ -1,0 +1,25 @@
+[theme]
+base = "light"
+primaryColor = "#1f4b99"
+backgroundColor = "#f8f7f4"
+secondaryBackgroundColor = "#eeece7"
+textColor = "#202425"
+linkColor = "#1f4b99"
+codeBackgroundColor = "#eeece7"
+borderColor = "#d6d3cc"
+font = "'DM Sans':https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "'DM Serif Display':https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap"
+codeFont = "'IBM Plex Mono':https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+baseFontSize = 15
+headingFontSizes = ["42px", "28px", "22px", "18px", "16px", "14px"]
+headingFontWeights = [400, 400, 500, 500, 500, 500]
+baseRadius = "small"
+buttonRadius = "small"
+showWidgetBorder = true
+linkUnderline = false
+
+[theme.sidebar]
+backgroundColor = "#eeece7"
+secondaryBackgroundColor = "#e4e1da"
+textColor = "#202425"
+borderColor = "#d6d3cc"
